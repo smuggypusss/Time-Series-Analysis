@@ -5,4 +5,4 @@
 ##### Then the other model which is more widely used is the ARMA model which combined AR and MA models to check the impact of lags and residuals.
 ##### Then as a small project, I downloaded the active stock data and analyzed the data using ACF and PACF model, then as a basic idea - if I predict a high enough return and 
 ##### not holding, buy stock, this was done using ARMA model.
-##### There exists more models such as SARIMA, GARCH for them the codes will be published soon.
+##### There exists more models such as SARIMA, GARCH etc. for them the codes will be published soon.
